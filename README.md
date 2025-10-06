@@ -119,7 +119,7 @@ ecommerce/
 
 ## 👨‍💻 Author
 
-#**Mehedi Hasan**
+   **Mehedi Hasan**
 
 📧 mehedihasanshahed3@gmail.com
 
