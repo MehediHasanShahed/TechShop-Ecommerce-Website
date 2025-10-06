@@ -1,0 +1,111 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+  padding-top: 80px; /* adjust depending on navbar height */
+}
+
+html {
+  scroll-padding-top: 80px; /* adjust this to your navbar height */
+}
+
+.navbar {
+    display: flex;
+    align-items: center; /* centers all content vertically */
+    margin-bottom: 10px;
+}
+
+.navbar-nav .nav-item .nav-link {
+    color: #fff;
+    font-size: 18px;
+    margin-right: 15px;
+    align-items: center;
+}
+
+.navbar-nav .nav-item .nav-link:hover {
+    color: #f0ad4e;
+}
+
+.footer {
+    background-color: #f8f9fa;
+    padding: 20px 0;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.footer p {
+    margin: 0;
+    color: #6c757d;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.product-card {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 15px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.product-card img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+.product-card h5 {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.product-card p {
+    font-size: 16px;
+    color: #28a745;
+    margin-bottom: 10px;
+}
+
+.product-card .btn {
+    background-color: #007bff;
+    color: #fff;
+}
+
+.product-card .btn:hover {
+    background-color: #0056b3;
+    color: #fff;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .navbar-nav .nav-item .nav-link {
+        font-size: 16px;
+        margin-right: 10px;
+    }
+
+    .product-card h5 {
+        font-size: 18px;
+    }
+
+    .product-card p {
+        font-size: 14px;
+    }
+}
+
+
+.nav-link .badge {
+  font-size: 0.7rem;
+  padding: 0.3em 0.4em;
+}
+
+
+/* Smooth scrolling for anchor links */
+html {
+  scroll-behavior: smooth;
+}
