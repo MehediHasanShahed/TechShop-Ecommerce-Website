@@ -122,7 +122,9 @@ ecommerce/
 **Mehedi Hasan**
 
 **Email:** [mehedihasanshahed3@gmail.com](mailto:mehedihasanshahed3@gmail.com)
-**LinkedIn:** [Mehedi Hasan Shahed](https://www.linkedin.com/in/mehedi-hasan-153404287/)  
+
+**LinkedIn:** [Mehedi Hasan Shahed](https://www.linkedin.com/in/mehedi-hasan-153404287/)
+
 💼 Software Developer | Web Engineer | PHP & JavaScript Enthusiast
 
 ---
