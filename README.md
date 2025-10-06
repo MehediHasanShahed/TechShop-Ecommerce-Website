@@ -106,7 +106,6 @@ Include images such as:
 * Checkout summary<img width="1878" height="923" alt="image" src="https://github.com/user-attachments/assets/b5d2aae4-7d56-4e3c-bf0e-4c31014b9960" />
 * Example PDF invoice<img width="1878" height="923" alt="image" src="https://github.com/user-attachments/assets/4c454a69-d2ff-45ed-aa8f-3dbce4fc5c20" />
 
-*(Add them under `/screenshots` or link directly from GitHub once uploaded.)*
 
 ---
 
