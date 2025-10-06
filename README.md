@@ -99,7 +99,6 @@ ecommerce/
 
 ## 📸 Screenshots
 
-Include images such as:
 
 * Homepage<img width="1878" height="923" alt="image" src="https://github.com/user-attachments/assets/498f9dfe-41b4-47bf-b881-8ca8fb7835e4" />
 * Cart view<img width="1878" height="923" alt="image" src="https://github.com/user-attachments/assets/dd40a915-ae38-4482-9aa3-4f57b7592817" />
