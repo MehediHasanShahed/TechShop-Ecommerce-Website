@@ -120,7 +120,9 @@ ecommerce/
 ## 👨‍💻 Author
 
 **Mehedi Hasan**
+
 📧 mehedihasanshahed3@gmail.com
+
 💼 Software Developer | Web Engineer | PHP & JavaScript Enthusiast
 
 ---
